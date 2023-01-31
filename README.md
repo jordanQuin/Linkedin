@@ -1,2 +1,2 @@
 # Linkedin
-Bilan de projet fais durant la premiere années du BUT informatique
+Bilan de projet fais durant mes années du BUT informatique
